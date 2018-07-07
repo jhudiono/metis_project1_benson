@@ -1,5 +1,5 @@
 # Metis Project 1: Benson
-Authors: Christopher Bui, Laura Borton, , Jonathon Bowyer, Jessica Hudiono
+Authors: Christopher Bui, Laura Borton, Jonathon Bowyer, Jessica Hudiono
 
 Jupyter notebooks in this project are meant to be run in the following order:
 
