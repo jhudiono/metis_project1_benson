@@ -1,2 +1,2 @@
-# metis_project1_benson
-MTA Turnstile Analysis Group Project
+# Metis Project 1: Benson
+Authors: Christopher Bui, Laura Borton, , Jonathon Bowyer, Jessica Hudiono
